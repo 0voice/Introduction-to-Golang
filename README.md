@@ -7,8 +7,6 @@
   
 </div>
 
-# 环境准备
-
 ## 源码下载
 
 Go官网下载地址：https://golang.org/dl/
