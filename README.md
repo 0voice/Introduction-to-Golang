@@ -17,7 +17,10 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 
 ### Frst step：了解源代码目录结构
-```c
+
+![image](https://user-images.githubusercontent.com/87457873/128672087-47e4e023-b0c0-4075-9d6c-722f3969360e.png)
+
+```
 |– AUTHORS — 文件，官方 Go语言作者列表
 
 |– CONTRIBUTORS — 文件，第三方贡献者列表
@@ -36,6 +39,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 |– doc — 目录，Go语言的各种文档，官网上有的，这里基本会有，这也就是为什么说可以本地搭建”官网”。
 这里面有不少其他资源，比如gopher图标之类的。
+
 |– favicon.ico — 文件，官网logo
 
 |– include — 目录，Go 基本工具依赖的库的头文件
