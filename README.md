@@ -16,7 +16,7 @@ Go官网下载地址：https://golang.org/dl/
 Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 ## 源代码目录结构
-```
+```c
 |– AUTHORS — 文件，官方 Go语言作者列表
 
 |– CONTRIBUTORS — 文件，第三方贡献者列表
