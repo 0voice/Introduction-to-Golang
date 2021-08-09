@@ -15,7 +15,10 @@ Go官网下载地址：https://golang.org/dl/
 
 Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
-## 源代码目录结构
+## [开启Go语言学习之旅，从`Hello World`开始！](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BAGo%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+
+
+### Frst step：了解源代码目录结构
 ```c
 |– AUTHORS — 文件，官方 Go语言作者列表
 
