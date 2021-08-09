@@ -25,7 +25,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
   
 <div  align=center>
 
-<img src="https://user-images.githubusercontent.com/87457873/128672087-47e4e023-b0c0-4075-9d6c-722f3969360e.png"/> 
+![image](https://user-images.githubusercontent.com/87457873/128687226-8ac5bb7c-f09b-4cb3-afc0-cf18bff9d15a.png)
   
 </div>
 
