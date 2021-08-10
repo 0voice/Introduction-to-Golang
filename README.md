@@ -78,7 +78,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 [《Go语言学习笔记》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf)
 
-《Go语言入门经典》
+[《Go语言入门经典》:hdcy](https://pan.baidu.com/s/15eMLovSIrdCLoILMjr4vBQ)
 
 [《Go语言编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
 
@@ -86,7 +86,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 [《Go Web 编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub)
 
-《Go语言编程入门与实战技巧》
+[《Go语言编程入门与实战技巧》:sgro](https://pan.baidu.com/s/1DlkBN8dRWmCHymyD4pJMCg)
 
 #### 进阶
 
@@ -96,7 +96,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 [《Go 语法树入门》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf)
 
-《Go语言编程之旅》
+[《Go语言程序设计》:flnj](https://pan.baidu.com/s/11WpEqd9Fa7Ur5dH1XJdGtg)
 
 [《Go语言高级编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
@@ -104,9 +104,9 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 《Go语言高并发与微服务实战》
 
-《Go并发编程实战》
+[《Go并发编程实战》第2版：lsn0](https://pan.baidu.com/s/1fAjT7l16hY8ryXlknnSL-A)
 
-《Go语言并发之道》
+[《Go语言并发之道》:6ppw](https://pan.baidu.com/s/1w6SbSkcjqFN1WiG2oS7XaA)
 
 ### 📖 文章
 
