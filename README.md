@@ -68,37 +68,37 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 #### 入门
 
-《Go 入门指南》
+[《Go 入门指南》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E3%80%8B.pdf)
 
-《Go语言101》
+[《Go语言101》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80101%E3%80%8B.pdf)
 
 《Go语言趣学指南》
 
 《Go语言从入门到进阶实战》
 
-《Go语言学习笔记》
+[《Go语言学习笔记》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E3%80%8B.pdf)
 
 《Go语言入门经典》
 
-《Go语言编程》
+[《Go语言编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E3%80%8B%E9%AB%98%E6%B8%85%E5%AE%8C%E6%95%B4%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A6.pdf)
 
-《Go语言实战》
+[《Go语言实战》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E3%80%8B.epub)
 
-《Go Web 编程》
+[《Go Web 编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20Web%20%E7%BC%96%E7%A8%8B%E3%80%8B.epub)
 
 《Go语言编程入门与实战技巧》
 
 #### 进阶
 
-《The Go Programming Language》-《Go 语言圣经》
+[《Go 语言圣经》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%20%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F%E3%80%8B.pdf)
 
-《Go专家编程》
+[《Go专家编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
-《Go 语法树入门》
+[《Go 语法树入门》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E6%B3%95%E6%A0%91%E5%85%A5%E9%97%A8%E3%80%8B.pdf)
 
 《Go语言编程之旅》
 
-《Go语言高级编程》
+[《Go语言高级编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
 《Go语言核心编程》
 
