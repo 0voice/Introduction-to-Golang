@@ -126,6 +126,82 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 ### 💽 视频
 
+#### 入门系列
+
+Go (Golang) Tutorial #1 - Introduction & Setup
+
+Go (Golang) Tutorial #2 - Your First Go File
+
+Go (Golang) Tutorial #3 - Variables, Strings & Numbers
+
+Go (Golang) Tutorial #4 - Printing & Formatting Strings
+
+Go (Golang) Tutorial #5 - Arrays & Slices
+
+Go (Golang) Tutorial #6 - The Standard Library
+
+Go (Golang) Tutorial #7 - Loops
+
+Go (Golang) Tutorial #8 - Booleans & Conditionals
+
+Go (Golang) Tutorial #9 - Using Functions
+
+Go (Golang) Tutorial #10 - Multiple Return Values
+
+Go (Golang) Tutorial #11 - Package Scope
+
+Go (Golang) Tutorial #12 - Maps
+
+Go (Golang) Tutorial #13 - Pass By Value
+
+Go (Golang) Tutorial #14 - Pointers
+
+Go (Golang) Tutorial #15 - Structs & Custom Types
+
+Go (Golang) Tutorial #16 - Receiver Functions
+
+Go (Golang) Tutorial #17 - Receiver Functions with Pointers
+
+Go (Golang) Tutorial #18 - User Input
+
+Go (Golang) Tutorial #19 - Switch Statements
+
+Go (Golang) Tutorial #20 - Parsing Floats
+
+Go (Golang) Tutorial #21 - Saving Files
+
+Go (Golang) Tutorial #22 - Interfaces
+
+
+### 大佬演讲、技术分享
+
+GopherCon 2017- Russ Cox - The Future of Go
+
+GopherCon 2018- George Tankersley - Micro optimizing Go Code
+
+GopherCon 2018- Kat Zien - How Do You Structure Your Go Apps
+
+GopherCon 2018 Lightning Talk- Aidan Coyle - Lazy JSON Parsing
+
+GopherCon 2018 Lightning Talk- Alan Braithwaite - Web Session Management in Go
+
+GopherCon 2018 Lightning Talk- Hugo Torres - Talking to the Docker Socket
+
+GopherCon 2019- Dave Cheney - Two Go Programs, Three Different Profiling Techniques
+
+Let's Go - Why I'm moving to Go Programming Language - Why GoLang has a Promising Future
+
+Golang's Garbage - USENIX
+
+Golang REST API With Mux
+
+Golang Crash Course
+
+Brad Fitzpatrick Go 1 11 and beyond
+
+dotGo 2015 - Rob Pike - Simplicity is Complicated
+
+
 ### ☁ 云原生
 
 ### 📄 论文与理论分析
