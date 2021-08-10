@@ -138,20 +138,20 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
   
 title | Link
 :------ | :------:
-Go (Golang) Tutorial - Go语言入门教程 #1 ~ #22 | 百度网盘：
-GopherCon 2017- Russ Cox - The Future of Go | 百度网盘：
-GopherCon 2018- George Tankersley - Micro optimizing Go Code | 百度网盘：
-GopherCon 2018- Kat Zien - How Do You Structure Your Go Apps | 百度网盘：
-GopherCon 2018 Lightning Talk- Aidan Coyle - Lazy JSON Parsing | 百度网盘：
-GopherCon 2018 Lightning Talk- Alan Braithwaite - Web Session Management in Go | 百度网盘：
-GopherCon 2018 Lightning Talk- Hugo Torres - Talking to the Docker Socket | 百度网盘：
-GopherCon 2019- Dave Cheney - Two Go Programs, Three Different Profiling Techniques | 百度网盘：
-Let's Go - Why I'm moving to Go Programming Language - Why GoLang has a Promising Future | 百度网盘：
-Golang's Garbage - USENIX | 百度网盘：
-Golang REST API With Mux | 百度网盘：
-Golang Crash Course | 百度网盘：
-Brad Fitzpatrick Go 1 11 and beyond | 百度网盘：
-dotGo 2015 - Rob Pike - Simplicity is Complicated | 百度网盘：
+Go (Golang) Tutorial - Go语言入门教程 #1 ~ #22 | [百度网盘：btjy](https://pan.baidu.com/s/1gOHgMWDkJnDkMYtsg7fwGg)
+GopherCon 2017- Russ Cox - The Future of Go | [百度网盘：zx1w](https://pan.baidu.com/s/1pFP8QbNxV6sBYZAPNelnRw)
+GopherCon 2018- George Tankersley - Micro optimizing Go Code | [百度网盘：tzau](https://pan.baidu.com/s/1r7C6wsmQVnQkiWpWnDnLxA)
+GopherCon 2018- Kat Zien - How Do You Structure Your Go Apps | [百度网盘：qmrq](https://pan.baidu.com/s/1BuM-Fd1_3NOawMpleB_cSA)
+GopherCon 2018 Lightning Talk- Aidan Coyle - Lazy JSON Parsing | [百度网盘：g4f5](https://pan.baidu.com/s/1axakvOf4Yvk4VZX0nvOIDg)
+GopherCon 2018 Lightning Talk- Alan Braithwaite - Web Session Management in Go | [百度网盘：2ibm](https://pan.baidu.com/s/16vqxJ4CDp3kXQEWgoQQZOQ)
+GopherCon 2018 Lightning Talk- Hugo Torres - Talking to the Docker Socket | [百度网盘：unlh](https://pan.baidu.com/s/10y_32K0tV2l_LAe_ifE38w)
+GopherCon 2019- Dave Cheney - Two Go Programs, Three Different Profiling Techniques | [百度网盘：kgjj](https://pan.baidu.com/s/1sbgzy7YFs_GbLcro299r2Q)
+Let's Go - Why I'm moving to Go Programming Language - Why GoLang has a Promising Future | [百度网盘：ewon](https://pan.baidu.com/s/1HXRrbIQkkftU3x0KZymUpw)
+Golang's Garbage - USENIX | [百度网盘：kkl4](https://pan.baidu.com/s/18HzVf2jLrgoTmbwCjRR0LA)
+Golang REST API With Mux | [百度网盘：el4d](https://pan.baidu.com/s/1TrsNS6sgxFb8nj09HcP3rw)
+Golang Crash Course | [百度网盘：v4jw](https://pan.baidu.com/s/1QXJW21hm-hOJ1hxMzkQoog)
+Brad Fitzpatrick Go 1 11 and beyond | [百度网盘：yg9r](https://pan.baidu.com/s/1RsZHVCH3xI6hLfyCxCPS2g)
+dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https://pan.baidu.com/s/1RcfgpuCzYToBnaHMwfhjIw)
   
 </div>
 
