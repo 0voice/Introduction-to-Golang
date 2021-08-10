@@ -64,6 +64,8 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
   
 </div>
 
+---
+
 ### 📕 书籍
 
 #### 入门
@@ -108,6 +110,8 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 [《Go语言并发之道》:6ppw](https://pan.baidu.com/s/1w6SbSkcjqFN1WiG2oS7XaA)
 
+---
+
 ### 📖 文章
 
 [Go语言之goroutine协程详解](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
@@ -124,34 +128,17 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 [从源码角度看 Golang 的调度](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md)
 
+---
+
 ### 💽 视频
+
+<br>
 
 <div align=center>
   
 title | Link
-:------: | :------:
-Go (Golang) Tutorial #1 - Introduction & Setup| 百度网盘：
-Go (Golang) Tutorial #2 - Your First Go File| 百度网盘：
-Go (Golang) Tutorial #3 - Variables, Strings & Numbers| 百度网盘：
-Go (Golang) Tutorial #4 - Printing & Formatting Strings| 百度网盘：
-Go (Golang) Tutorial #5 - Arrays & Slices| 百度网盘：
-Go (Golang) Tutorial #6 - The Standard Library| 百度网盘：
-Go (Golang) Tutorial #7 - Loops| 百度网盘：
-Go (Golang) Tutorial #8 - Booleans & Conditionals| 百度网盘：
-Go (Golang) Tutorial #9 - Using Functions| 百度网盘：
-Go (Golang) Tutorial #10 - Multiple Return Values| 百度网盘：
-Go (Golang) Tutorial #11 - Package Scope| 百度网盘：
-Go (Golang) Tutorial #12 - Maps| 百度网盘：
-Go (Golang) Tutorial #13 - Pass By Value| 百度网盘：
-Go (Golang) Tutorial #14 - Pointers| 百度网盘：
-Go (Golang) Tutorial #15 - Structs & Custom Types| 百度网盘：
-Go (Golang) Tutorial #16 - Receiver Functions| 百度网盘：
-Go (Golang) Tutorial #17 - Receiver Functions with Pointers| 百度网盘：
-Go (Golang) Tutorial #18 - User Input| 百度网盘：
-Go (Golang) Tutorial #19 - Switch Statements| 百度网盘：
-Go (Golang) Tutorial #20 - Parsing Floats| 百度网盘：
-Go (Golang) Tutorial #21 - Saving Files| 百度网盘：
-Go (Golang) Tutorial #22 - Interfaces| 百度网盘：
+:------ | :------:
+Go (Golang) Tutorial - Go语言入门教程 #1 ~ #22 | 百度网盘：
 GopherCon 2017- Russ Cox - The Future of Go | 百度网盘：
 GopherCon 2018- George Tankersley - Micro optimizing Go Code | 百度网盘：
 GopherCon 2018- Kat Zien - How Do You Structure Your Go Apps | 百度网盘：
@@ -168,11 +155,19 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | 百度网盘：
   
 </div>
 
+---
+
 ### ☁ 云原生
+
+---
 
 ### 📄 论文与理论分析
 
+---
+
 ### 🏗 开源框架
+
+---
 
 ### 🖼 大厂实战分享ppt
 
