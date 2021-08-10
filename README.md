@@ -148,6 +148,63 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 </div>
 
+#### 中间件
+* MySQL
+  * golang的CRUD
+  * jmorion/sqlx包
+  * 连接池
+  * 异步mysql
+* Gin
+  * RESTful API
+  * URL查询参数
+  * query接收数组和Map
+  * 表单参数
+  * 上传文件
+  * 分组路由routel以及中间件授权
+  * json、struct、xml、yaml、protobuf渲染
+* Redis
+  * go-redis
+  * get/set/zset操作
+  * 连接池
+  * 分布式锁
+* MongoDB
+  * MongoDB-driver
+  * BSON解析
+  * CRUD操作
+  * 文档管理
+  * 连接池
+* Kafka
+  * saram包
+  * 同步、异步
+  * zstd压缩算法
+  * 横向扩展
+  * go实现生产消费者
+  * topic和partition
+  * 消息分发策略
+  * 分区副本机制
+* etcd
+  * 原理
+  * 分布式锁
+  * etcd操作
+  * 服务发现于注册
+* ElasticSearch
+  * es服务器
+  * go- elasticsearch包
+  * node于cluster
+  * Index于Document
+  * 检测与配置
+* gRPC
+  * protoc-gen-go开发包
+  * .proto文件
+  * gRPC Service Stub
+  * rpc接口设计
+  * 通信模式
+  * 拦截器
+  * 多路复用
+  * 负载均衡
+  * 安全认证
+
+
 
 
 ## 📚 资料包
