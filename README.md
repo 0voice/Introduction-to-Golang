@@ -60,7 +60,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 <div  align=center>
   
-![image](https://user-images.githubusercontent.com/87457873/128867223-af882655-eaa7-4523-b737-b3de4c4f5b56.png)
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/128867223-af882655-eaa7-4523-b737-b3de4c4f5b56.png"/>
 
 </div>
 
@@ -108,7 +108,11 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 那么开始进一步完善之前的知识点：
 
-![image](https://user-images.githubusercontent.com/87457873/128875154-16e7ce3a-5817-4cb5-804a-1ad4b5bc5b5b.png)
+<div  align=center>
+  
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/128875154-16e7ce3a-5817-4cb5-804a-1ad4b5bc5b5b.png"/>
+
+</div>
 
 #### 语法
 * 语法基础
