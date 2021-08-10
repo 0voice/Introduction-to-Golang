@@ -52,7 +52,7 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 |– test — 目录，包含很多测试程序（并非_test.go方式的单元测试，而是包含main包的测试），包括一些fixbug测试。
 可以通过这个学到一些特性的使用。
 ```
-### Step 2：Go需要学习哪些内容？
+### Step 2：Golang开发后台掌握哪些知识点？
 
 ### Step 3：如何高效地学习Go？
 
