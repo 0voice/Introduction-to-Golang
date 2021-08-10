@@ -110,6 +110,16 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 ### 📖 文章
 
+[Go语言之goroutine协程详解](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
+
+[Golang之sync.Pool对象池对象重用机制总结](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
+
+[Golang的GC和内存逃逸](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E7%9A%84GC%E5%92%8C%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8.md)
+
+[GO语言之垃圾回收机制](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/GO%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
+
+[Go内存分配那些事，就这么简单](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
+
 ### 💽 视频
 
 ### ☁ 云原生
