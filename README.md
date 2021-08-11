@@ -579,8 +579,39 @@ cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代
 
 ### 🖼 大厂实战分享ppt
 
-
-
+* [Go in TiDB]()
+* [Go 如何助力企业进行微服务转型]()
+* [Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖]()
+* [Golang主动式内存缓存的优化探索之路]()
+* [Golang在百万亿搜索引擎中的应用]()
+* [Golang在阿里巴巴调度系统Sigma中的实践]()
+* [Go在大数据开发中的经验总结]()
+* [Go在探探后端的工程实践]()
+* [Go在证券行情系统中的应用]()
+* [Go微服务实战]()
+* [Go打造亿级实时分布式平台]()
+* [Go语言在讯联扫码支付系统中的成功实践]()
+* [Go语言在证券期货行情系统中的实践]()
+* [Go语言的抢占式调度]()
+* [Improving Go Backend Developer Experience in Grab]()
+* [Processing XML and Spreadsheet Data in Go]()
+* [The Zen of Go]()
+* [Tracing in TiDB]()
+* [goplus-gopher-china]()
+* [云原生技术在2B交付中的实践]()
+* [利用夜莺扩展能力打造全方位监控系统]()
+* [基于 Golang 构建高可扩展的云原生 PaaS 平台]()
+* [基于Kubernetes的私有云实战]()
+* [大规模场景下Kubernetes Service负载均衡性能优化]()
+* [天猫DevOps转型实践]()
+* [如何用Go模拟CPU]()
+* [字节跳动在 Go 网络库上的实践]()
+* [深入Go Module]()
+* [深入理解BFE]()
+* [罗辑思维Go语言微服务改造实践]()
+* [谈如何构建易于拆分的单体应用]()
+* [跨境电商的Go服务治理实践]()
+* [阿里巴巴新一代基于 Go 的云原生应用引擎实践]()
 
 
 
