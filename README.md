@@ -31,7 +31,6 @@ Go官方镜像站（推荐）：https://golang.google.cn/dl/
 
 <br>
 
-
 * |– AUTHORS — 文件，官方 Go语言作者列表
 * |– CONTRIBUTORS — 文件，第三方贡献者列表
 * |– LICENSE — 文件，Go语言发布授权协议
@@ -321,7 +320,7 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 [《Go语言高级编程》](https://github.com/0voice/Introduction-to-Golang/blob/main/%E7%94%B5%E5%AD%90%E4%B9%A6%E7%B1%8D/%E3%80%8AGo%E8%AF%AD%E8%A8%80%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%E3%80%8B.pdf)
 
-《Go语言核心编程》
+[《Go语言核心编程》:v9fl](https://pan.baidu.com/s/10QdNpX0fdMH571LA3M8asA)
 
 《Go语言高并发与微服务实战》
 
@@ -544,12 +543,27 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 
 ### 📄 论文与理论分析
 
+<div align=center>
+	
+Title|Translation（参考）|Company
+:---------------: | :------------: | :-------:
+[《Acme: A User Interface for Programmers》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/A%20User%20Interface%20for%20Programmers.pdf) | 程序员的用户界面 | AT&T,贝尔实验室
+[《Understanding Real-World Concurrency Bugs in Go》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/Understanding%20Real-World%20Concurrency%20Bugs%20in%20Go.pdf) | 了解真实go中的并发bug | 宾夕法尼亚州立大学
+[《A Formal Model of the Kubernetes Container Framework》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Formal%20Model%20of%20the%20Kubernetes%20Container%20Framework%E3%80%8B.pdf) | Kubernetes容器框架的形式化模型 | 奥斯陆大学
+[《Running Cloud Native Applications on DigitalOcean Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf) | 在DigitalOcean Kubernetes上运行云本地应用 | 未知
+[《Kubernetes as an Availability Manager for Microservice Applications》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf) | Kubernetes作为微服务应用程序的可用性管理器 | 康科迪亚大学
+[《Borg, Omega, and Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg%2C%20Omega%2C%20and%20Kubernetes%E3%80%8B.pdf) | Borg、Omega 和 Kubernetes | GOOGLE
+
+</div>
+
 ---
 
 ### 🏗 开源项目
 
 #### 王者段位
 
+<div align=center>
+	
 项目 | 简介| 地址
 -------|-------------------|---------------
 docker | 无人不知的虚拟华平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。| https://github.com/docker/docker
@@ -570,6 +584,7 @@ codis | Codis是一个分布式Redis解决方案,其实就是一个数据库代�
 delve |这个Go开发者都知道，一款go应用开发的调试工具。 |https://github.com/derekparker/delve
 cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代的CLI命令行应用。|https://github.com/spf13/cobra
 
+</div>
 
 ---
 
