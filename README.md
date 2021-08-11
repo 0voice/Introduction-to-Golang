@@ -204,7 +204,79 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
   * 负载均衡
   * 安全认证
 
+<div  align=center>
+  
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/128963340-173a3516-c0ec-470b-8546-ef6a34683066.png"/>
 
+</div>
+
+#### 后端开发
+* 游戏后端
+  * leaf框架
+  * 网关、协议、日志、网络模块
+* 流媒体Web后端
+  * Restful接口设计
+  * scheduler设计
+  * apidefs结构体
+  * mysql建库建表
+* 小程序后端
+  * 公众号开发流程
+  * 微信消息接收与解析
+  * 公众号验证URL+Token
+  * 内网环境接口测试
+  * 后端程序测试脚本
+* goadmin后台权限管理系统
+  * RESTful API设计
+  * Gin框架
+  * JWT认证
+  * 支持Swagger文档
+  * GORM对象关系映射
+  * 基于Casbin的RBAC访问控制模型
+* goim千万级高并发推送服务
+  * 单个、多个、广播消息推送
+  * 应用心跳、tcp、keepalive、http log pulling
+  * 异步消息推送
+  * 接入层多协议
+  * 可拓扑架构
+  * 注册发现服务
+  * 消息协议（protobuf）
+  * goim推送
+  * grpc编程
+* 腾讯云大数据
+  * TBDS
+  * 云数据仓库PostgreSQL
+  * 弹性MapReduce
+  * WeData数据开发平台
+
+<div  align=center>
+  
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/128963600-fcca8120-e8e1-4a69-9562-e112e541e973.png"/>
+
+</div>
+
+#### 云原生
+
+* 微服务
+  * go-micro原理
+  * rpc
+  * 服务间同步
+  * json/protobuf
+* DevOps
+  * 项目管理 CODING-PM
+  * 测试管理 CODING-TM
+  * 制品库 CODING-AR
+  * 代码托管 CODING-CR
+* 持续部署
+  * spinnake
+  * webhook外部对接
+  * 蓝绿分布/金丝雀发布
+  * SCF云函数
+  * 快速回滚
+* 容器化
+  * Docker化部署
+  * k8s集群
+  * CVM云服务器
+  * TKE容器服务
 
 
 ## 📚 资料包
