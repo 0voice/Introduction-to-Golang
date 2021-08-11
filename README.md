@@ -579,60 +579,36 @@ cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代
 
 ### 🖼 大厂实战分享ppt
 
-* [Go in TiDB]()
-* [Go 如何助力企业进行微服务转型]()
-* [Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖]()
-* [Golang主动式内存缓存的优化探索之路]()
-* [Golang在百万亿搜索引擎中的应用]()
-* [Golang在阿里巴巴调度系统Sigma中的实践]()
-* [Go在大数据开发中的经验总结]()
-* [Go在探探后端的工程实践]()
-* [Go在证券行情系统中的应用]()
-* [Go微服务实战]()
-* [Go打造亿级实时分布式平台]()
-* [Go语言在讯联扫码支付系统中的成功实践]()
-* [Go语言在证券期货行情系统中的实践]()
-* [Go语言的抢占式调度]()
-* [Improving Go Backend Developer Experience in Grab]()
-* [Processing XML and Spreadsheet Data in Go]()
-* [The Zen of Go]()
-* [Tracing in TiDB]()
-* [goplus-gopher-china]()
-* [云原生技术在2B交付中的实践]()
-* [利用夜莺扩展能力打造全方位监控系统]()
-* [基于 Golang 构建高可扩展的云原生 PaaS 平台]()
-* [基于Kubernetes的私有云实战]()
-* [大规模场景下Kubernetes Service负载均衡性能优化]()
-* [天猫DevOps转型实践]()
-* [如何用Go模拟CPU]()
-* [字节跳动在 Go 网络库上的实践]()
-* [深入Go Module]()
-* [深入理解BFE]()
-* [罗辑思维Go语言微服务改造实践]()
-* [谈如何构建易于拆分的单体应用]()
-* [跨境电商的Go服务治理实践]()
-* [阿里巴巴新一代基于 Go 的云原生应用引擎实践]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Go in TiDB](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20in%20TiDB.pdf)
+* [Go 如何助力企业进行微服务转型](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%20%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E4%BC%81%E4%B8%9A%E8%BF%9B%E8%A1%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%BD%AC%E5%9E%8B.pdf)
+* [Golang 内存管理探微&mdash&mdash，如何高效使用 Golang 内存以及腾讯云实战-杨晖](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E6%8E%A2%E5%BE%AE%26mdash%26mdash%EF%BC%8C%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%20Golang%20%E5%86%85%E5%AD%98%E4%BB%A5%E5%8F%8A%E8%85%BE%E8%AE%AF%E4%BA%91%E5%AE%9E%E6%88%98-%E6%9D%A8%E6%99%96.pdf)
+* [Golang主动式内存缓存的优化探索之路](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E4%B8%BB%E5%8A%A8%E5%BC%8F%E5%86%85%E5%AD%98%E7%BC%93%E5%AD%98%E7%9A%84%E4%BC%98%E5%8C%96%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF.pdf)
+* [Golang在百万亿搜索引擎中的应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E7%99%BE%E4%B8%87%E4%BA%BF%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
+* [Golang在阿里巴巴调度系统Sigma中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Golang%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9FSigma%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [Go在大数据开发中的经验总结](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93.pdf)
+* [Go在探探后端的工程实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E6%8E%A2%E6%8E%A2%E5%90%8E%E7%AB%AF%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5.pdf)
+* [Go在证券行情系统中的应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%9C%A8%E8%AF%81%E5%88%B8%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf)
+* [Go微服务实战](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E6%88%98.pdf)
+* [Go打造亿级实时分布式平台](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E6%89%93%E9%80%A0%E4%BA%BF%E7%BA%A7%E5%AE%9E%E6%97%B6%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B3%E5%8F%B0_2.pdf)
+* [Go语言在讯联扫码支付系统中的成功实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AE%AF%E8%81%94%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%88%90%E5%8A%9F%E5%AE%9E%E8%B7%B5.pdf)
+* [Go语言在证券期货行情系统中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E5%9C%A8%E8%AF%81%E5%88%B8%E6%9C%9F%E8%B4%A7%E8%A1%8C%E6%83%85%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [Go语言的抢占式调度](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%A2%E5%8D%A0%E5%BC%8F%E8%B0%83%E5%BA%A6.pdf)
+* [Improving Go Backend Developer Experience in Grab](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Improving%20Go%20Backend%20Developer%20Experience%20in%20Grab.pdf)
+* [Processing XML and Spreadsheet Data in Go](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Processing%20XML%20and%20Spreadsheet%20Data%20in%20Go.pdf)
+* [The Zen of Go](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/The%20Zen%20of%20Go.pdf)
+* [Tracing in TiDB](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/Tracing%20in%20TiDB.pdf)
+* [goplus-gopher-china](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/goplus-gopher-china.pdf)
+* [云原生技术在2B交付中的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E4%BA%91%E5%8E%9F%E7%94%9F%E6%8A%80%E6%9C%AF%E5%9C%A82B%E4%BA%A4%E4%BB%98%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [利用夜莺扩展能力打造全方位监控系统](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%88%A9%E7%94%A8%E5%A4%9C%E8%8E%BA%E6%89%A9%E5%B1%95%E8%83%BD%E5%8A%9B%E6%89%93%E9%80%A0%E5%85%A8%E6%96%B9%E4%BD%8D%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F.pdf)
+* [基于 Golang 构建高可扩展的云原生 PaaS 平台](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8E%20Golang%20%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E6%89%A9%E5%B1%95%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%20PaaS%20%E5%B9%B3%E5%8F%B0.pdf)
+* [基于Kubernetes的私有云实战](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%9F%BA%E4%BA%8EKubernetes%E7%9A%84%E7%A7%81%E6%9C%89%E4%BA%91%E5%AE%9E%E6%88%98.pdf)
+* [大规模场景下Kubernetes Service负载均衡性能优化](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%BA%E6%99%AF%E4%B8%8BKubernetes%20Service%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)
+* [天猫DevOps转型实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A4%A9%E7%8C%ABDevOps%E8%BD%AC%E5%9E%8B%E5%AE%9E%E8%B7%B5.pdf)
+* [如何用Go模拟CPU](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%A6%82%E4%BD%95%E7%94%A8Go%E6%A8%A1%E6%8B%9FCPU.pdf)
+* [字节跳动在 Go 网络库上的实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%20Go%20%E7%BD%91%E7%BB%9C%E5%BA%93%E4%B8%8A%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [深入Go Module](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5Go%20Module.pdf)
+* [深入理解BFE](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3BFE.pdf)
+* [罗辑思维Go语言微服务改造实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4Go%E8%AF%AD%E8%A8%80%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%94%B9%E9%80%A0%E5%AE%9E%E8%B7%B5.pdf)
+* [谈如何构建易于拆分的单体应用](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B0%88%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%98%93%E4%BA%8E%E6%8B%86%E5%88%86%E7%9A%84%E5%8D%95%E4%BD%93%E5%BA%94%E7%94%A8.pdf)
+* [跨境电商的Go服务治理实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E7%9A%84Go%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%AE%9E%E8%B7%B5.pdf)
+* [阿里巴巴新一代基于 Go 的云原生应用引擎实践](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20PPT/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9F%BA%E4%BA%8E%20Go%20%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E5%BC%95%E6%93%8E%E5%AE%9E%E8%B7%B5.pdf)
