@@ -388,6 +388,11 @@ Title|Translation（参考）|Company
 [《Running Cloud Native Applications on DigitalOcean Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ARunning%20Cloud%20Native%20Applications%20on%20DigitalOcean%20Kubernetes%E3%80%8B.pdf) | 在DigitalOcean Kubernetes上运行云本地应用 | 未知
 [《Kubernetes as an Availability Manager for Microservice Applications》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AKubernetes%20as%20an%20Availability%20Manager%20for%20Microservice%20Applications%E3%80%8B.pdf) | Kubernetes作为微服务应用程序的可用性管理器 | 康科迪亚大学
 [《Borg, Omega, and Kubernetes》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8ABorg%2C%20Omega%2C%20and%20Kubernetes%E3%80%8B.pdf) | Borg、Omega 和 Kubernetes | GOOGLE
+[《A Raft-based HTAP Database》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AA%20Raft-based%20HTAP%20Database%E3%80%8B.pdf)|基于raft的HTAP数据库|VLDB基金会论文集
+[《For Reproducible Environments and Containerized Applications》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AFor%20Reproducible%20Environments%20and%20Containerized%20Applications%E3%80%8B.pdf)|用于可复制环境和容器化应用程序 |圣克劳德州立大学
+[《Escape from Escape Analysis of Golang》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AEscape%20from%20Escape%20Analysis%20of%20Golang%E3%80%8B.pdf)|golang逃离分析 |清华大学
+[《Using gRPC with Go》](https://github.com/0voice/Introduction-to-Golang/blob/main/paper/%E3%80%8AUsing%20gRPC%20with%20Go%E3%80%8B.pdf)| 在Go中使用gRPC|未知
+
 
 </div>
 
