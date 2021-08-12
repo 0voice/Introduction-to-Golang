@@ -12,12 +12,10 @@
 :-------: | :-------: | :---------:
  **[📖<br>精选文章](https://github.com/0voice/Introduction-to-Golang#-%E6%96%87%E7%AB%A0)**|**[💽<br>大佬视频](https://github.com/0voice/Introduction-to-Golang#-%E8%A7%86%E9%A2%91)**  |  **[🏗<br>开源项目](https://github.com/0voice/Introduction-to-Golang#-%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE)**
 **[📄<br>学术论文](https://github.com/0voice/Introduction-to-Golang#-%E8%AE%BA%E6%96%87%E4%B8%8E%E7%90%86%E8%AE%BA%E5%88%86%E6%9E%90)** | **[🖼<br>大会PPT](https://github.com/0voice/Introduction-to-Golang#-%E5%A4%A7%E5%8E%82%E5%AE%9E%E6%88%98%E5%88%86%E4%BA%ABppt)** | **[☁<br>云原生](https://github.com/0voice/Introduction-to-Golang#-%E4%BA%91%E5%8E%9F%E7%94%9F)**
-	
-
-
 
 </div>
 
+<br>
 ## 📥 [源码下载](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%BA%90%E7%A0%81/go1.16.7.src.tar.gz)
 
 Go官网下载地址：https://golang.org/dl/
