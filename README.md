@@ -344,6 +344,8 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 ### 📖 文章
 
+[当红开发语言Go，真的是未来的技术主流吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%BD%93%E7%BA%A2%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80Go%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%8A%80%E6%9C%AF%E4%B8%BB%E6%B5%81%E5%90%97%EF%BC%9F.md)
+
 [Go语言之goroutine协程详解](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E8%AF%AD%E8%A8%80%E4%B9%8Bgoroutine%E5%8D%8F%E7%A8%8B%E8%AF%A6%E8%A7%A3.md)
 
 [Golang之sync.Pool对象池对象重用机制总结](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Golang%E4%B9%8Bsync.Pool%E5%AF%B9%E8%B1%A1%E6%B1%A0%E5%AF%B9%E8%B1%A1%E9%87%8D%E7%94%A8%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
@@ -357,6 +359,14 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 [Go语言TCP Socket编程](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E9%82%A3%E4%BA%9B%E4%BA%8B%EF%BC%8C%E5%B0%B1%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%81.md)
 
 [从源码角度看 Golang 的调度](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E4%BB%8E%E6%BA%90%E7%A0%81%E8%A7%92%E5%BA%A6%E7%9C%8B%20Golang%20%E7%9A%84%E8%B0%83%E5%BA%A6.md)
+
+[Protobuf入门](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Protobuf%E5%85%A5%E9%97%A8.md)
+
+[etcd的使用](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/etcd%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+
+[深入理解 Go Map](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Go%20Map.md)
+
+[用go实现常见的数据结构](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E7%94%A8go%E5%AE%9E%E7%8E%B0%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
 ---
 
