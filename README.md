@@ -420,7 +420,7 @@ Title|Translation（参考）|Company
 
 ---
 
-### 🏗 开源项目
+### 🏗 开源项目（段位纯属分类管理，不分先后）
 
 #### 王者段位
 
@@ -448,6 +448,23 @@ cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代
 
 </div>
 
+#### 大师段位
+
+<div align=center>
+
+项目 | 简介| 地址
+-------|-------------------|---------------
+Viper | Viper 是一个完整的 Go 应用配置解决方案。|https://github.com/spf13/viper
+echo |高性能、极简主义的 Go Web 框架|https://github.com/labstack/echo
+uber-go/fx|一个基于依赖注入的 Go 应用框架。 |https://github.com/uber-go/fx	
+Swagger |生成器、UI 和验证 |https://github.com/go-swagger/go-swagger
+Logrus | Logrus 是一个适用于 Go(golang) 的结构化记录器，与标准库记录器完全 API 兼容。|https://github.com/sirupsen/logrus
+mockery| Golang 的模拟代码自动生成器|ttps://github.com/vektra/mockery
+migrate |用 Go 编写的数据库迁移。作为 CLI 使用或作为库导入。 |https://github.com/golang-migrate/migrate		
+NSQ| 消息传递|https://github.com/nsqio/go-nsq		
+sqlx |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。|https://github.com/jmoiron/sqlx		
+	
+</div>
 ---
 
 ### 🖼 大厂实战分享ppt
