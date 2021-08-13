@@ -181,7 +181,7 @@ Title|Translation（参考）|Company
 
 #### 大师段位
 
-<div align=center>
+
 
 项目 | 简介
 -------|-------------------
@@ -195,7 +195,7 @@ Title|Translation（参考）|Company
 [NSQ](https://github.com/nsqio/go-nsq) |消息传递		
 [sqlx](https://github.com/jmoiron/sqlx) |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。	
 	
-</div>
+
 
 ---
 
