@@ -181,8 +181,6 @@ Title|Translation（参考）|Company
 
 #### 大师段位
 
-
-
 项目 | 简介
 -------|-------------------
 [Viper](https://github.com/spf13/viper) | Viper 是一个完整的 Go 应用配置解决方案。
@@ -194,7 +192,16 @@ Title|Translation（参考）|Company
 [migrate](https://github.com/golang-migrate/migrate) |用 Go 编写的数据库迁移。作为 CLI 使用或作为库导入。 	
 [NSQ](https://github.com/nsqio/go-nsq) |消息传递		
 [sqlx](https://github.com/jmoiron/sqlx) |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。	
-	
+[Macaron](https://github.com/go-macaron/macaron)|一款具有高生产力和模块化设计的 Go Web 框架
+[Gin](https://github.com/gin-gonic/gin)|轻量 Web 框架
+[zinx](https://github.com/aceld/zinx)|TCP并发服务器框架
+[Negroni](https://github.com/urfave/negroni)|Web 中间件
+[csrf](https://github.com/gorilla/csrf)|CSRF 中间件
+[handlers](https://github.com/gorilla/handlers)|Go的net/http包的有用处理程序集合
+[SizedWaitGroup](https://github.com/remeh/sizedwaitgroup)|并发控制
+[concurrent](https://github.com/modern-go/concurrent)|并发工具包
+[grab](https://github.com/cavaliercoder/grab)|文件下载
+[go-netty](https://github.com/go-netty/go-netty)|网络框架
 
 
 ---
