@@ -192,7 +192,7 @@ Title|Translation（参考）|Company
 [Logrus](https://github.com/sirupsen/logrus) | Logrus 是一个适用于 Go(golang) 的结构化记录器，与标准库记录器完全 API 兼容。
 [mockery](https://github.com/vektra/mockery)| Golang 的模拟代码自动生成器
 [migrate](https://github.com/golang-migrate/migrate) |用 Go 编写的数据库迁移。作为 CLI 使用或作为库导入。 	
-[NSQ|](https://github.com/nsqio/go-nsq) 消息传递		
+[NSQ](https://github.com/nsqio/go-nsq) |消息传递		
 [sqlx](https://github.com/jmoiron/sqlx) |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。	
 	
 </div>
