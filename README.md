@@ -158,24 +158,24 @@ Title|Translation（参考）|Company
 <div align=center>
 	
 项目 | 简介| 地址
--------|-------------------|---------------
-docker | 无人不知的虚拟华平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。| https://github.com/docker/docker
-golang | go本身，也是用go语言实现的，包括他的编译器，要研究go源代码的可以看此项目录 | https://github.com/golang/go
-kubernetes | Google出品，用于调度和管理docker的开源容器管理系统，利用他，可以方便的管理你的docker实例，哪怕非常多，也是目前最流行的docker管理系统。 | https://github.com/kubernetes/kubernetes
-gogs |一款基于git的代码托管系统，类似于github和gitlab，不过其小巧易用，功能强大，部署方便，也有不少用户在使用。 | https://github.com/gogits/gogs
-syncthing | 开源的文件同步系统,它使用了其独有的对等自由块交换协议,速度很快,据说可以替换BitTorrent Sync。 |https://github.com/syncthing/syncthing
-grafana |一款开源监控度量的看板系统，可以接Graphite,Elasticsearch,InfluxDB等数据源，定制化很高。 | https://github.com/grafana/grafana
-etcd | 一款分布式的，可靠的K-V存储系统，使用简单，速度快，又安全。 |https://github.com/coreos/etcd
-hub |一款更便捷使用github的工具，包装并且扩展了git，提供了很多特性和功能，使用和git差不多。 |https://github.com/github/hub
-influxdb | 可伸缩的数据库，使用场景主要用来存储测量数据，事件点击以及其他等实时分析数据，用来做监控性能很不错。 |https://github.com/influxdata/influxdb
-caddy |快速的，跨平台的HTTP/2 Web服务器。 |https://github.com/mholt/caddy
-beego | 国产开源的高性能Web框架，让你快速的开发Go Web应用服务，谢大主笔。 |https://github.com/astaxie/beego
-martini |也是一款不错的Web框架。 |https://github.com/go-martini/martini
-cayley |Google开源的图数据库，这是一个NoSql数据库，适合处理复杂的，但是结构化低的数据,适用于社交网络，推荐系统等。|https://github.com/cayleygraph/cayley
-nsq |一款开源的实时的，分布式的消息中间件系统。|https://github.com/nsqio/nsq
-codis | Codis是一个分布式Redis解决方案,其实就是一个数据库代理，让你在使用Redis集群的时候，就像使用单机版的Redis是一样的，对开发者透明。 |https://github.com/CodisLabs/codis
-delve |这个Go开发者都知道，一款go应用开发的调试工具。 |https://github.com/derekparker/delve
-cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代的CLI命令行应用。|https://github.com/spf13/cobra
+-------|-------------------
+[docker](https://github.com/docker/docker) | 无人不知的虚拟华平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。
+[golang](https://github.com/golang/go) | go本身，也是用go语言实现的，包括他的编译器，要研究go源代码的可以看此项目录 
+[kubernetes](https://github.com/kubernetes/kubernetes) | Google出品，用于调度和管理docker的开源容器管理系统，利用他，可以方便的管理你的docker实例，哪怕非常多，也是目前最流行的docker管理系统。 
+[gogs](https://github.com/gogits/gogs) |一款基于git的代码托管系统，类似于github和gitlab，不过其小巧易用，功能强大，部署方便，也有不少用户在使用。 
+[syncthing](https://github.com/syncthing/syncthing) | 开源的文件同步系统,它使用了其独有的对等自由块交换协议,速度很快,据说可以替换BitTorrent Sync。 
+[grafana](https://github.com/grafana/grafana) |一款开源监控度量的看板系统，可以接Graphite,Elasticsearch,InfluxDB等数据源，定制化很高。 
+[etcd](https://github.com/coreos/etcd) | 一款分布式的，可靠的K-V存储系统，使用简单，速度快，又安全。 
+[hub](https://github.com/github/hub) |一款更便捷使用github的工具，包装并且扩展了git，提供了很多特性和功能，使用和git差不多。 
+[influxdb](https://github.com/influxdata/influxdb) | 可伸缩的数据库，使用场景主要用来存储测量数据，事件点击以及其他等实时分析数据，用来做监控性能很不错。 
+[caddy](https://github.com/mholt/caddy) |快速的，跨平台的HTTP/2 Web服务器。 
+[beego](https://github.com/astaxie/beego) | 国产开源的高性能Web框架，让你快速的开发Go Web应用服务，谢大主笔。 
+[martini](https://github.com/go-martini/martini) |也是一款不错的Web框架。 
+[cayley](https://github.com/cayleygraph/cayley) |Google开源的图数据库，这是一个NoSql数据库，适合处理复杂的，但是结构化低的数据,适用于社交网络，推荐系统等。
+[nsq](https://github.com/nsqio/nsq) |一款开源的实时的，分布式的消息中间件系统。
+[codis](https://github.com/CodisLabs/codis) | Codis是一个分布式Redis解决方案,其实就是一个数据库代理，让你在使用Redis集群的时候，就像使用单机版的Redis是一样的，对开发者透明。 
+[delve](https://github.com/derekparker/delve) |这个Go开发者都知道，一款go应用开发的调试工具。 
+[cobra](https://github.com/spf13/cobra) |cobra是一个命令行go库，可以让你创建非常强大的，现代的CLI命令行应用。
 
 </div>
 
@@ -184,16 +184,16 @@ cobra |cobra是一个命令行go库，可以让你创建非常强大的，现代
 <div align=center>
 
 项目 | 简介| 地址
--------|-------------------|---------------
-Viper | Viper 是一个完整的 Go 应用配置解决方案。|https://github.com/spf13/viper
-echo |高性能、极简主义的 Go Web 框架|https://github.com/labstack/echo
-uber-go/fx|一个基于依赖注入的 Go 应用框架。 |https://github.com/uber-go/fx	
-Swagger |生成器、UI 和验证 |https://github.com/go-swagger/go-swagger
-Logrus | Logrus 是一个适用于 Go(golang) 的结构化记录器，与标准库记录器完全 API 兼容。|https://github.com/sirupsen/logrus
-mockery| Golang 的模拟代码自动生成器|https://github.com/vektra/mockery
-migrate |用 Go 编写的数据库迁移。作为 CLI 使用或作为库导入。 |https://github.com/golang-migrate/migrate		
-NSQ| 消息传递|https://github.com/nsqio/go-nsq		
-sqlx |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。|https://github.com/jmoiron/sqlx		
+-------|-------------------
+[Viper](https://github.com/spf13/viper) | Viper 是一个完整的 Go 应用配置解决方案。
+[echo](https://github.com/labstack/echo) |高性能、极简主义的 Go Web 框架
+[uber-go/fx](https://github.com/uber-go/fx)|一个基于依赖注入的 Go 应用框架。 	
+[Swagger](https://github.com/go-swagger/go-swagger) |生成器、UI 和验证 
+[Logrus](https://github.com/sirupsen/logrus) | Logrus 是一个适用于 Go(golang) 的结构化记录器，与标准库记录器完全 API 兼容。
+[mockery](https://github.com/vektra/mockery)| Golang 的模拟代码自动生成器
+[migrate](https://github.com/golang-migrate/migrate) |用 Go 编写的数据库迁移。作为 CLI 使用或作为库导入。 	
+[NSQ|](https://github.com/nsqio/go-nsq) 消息传递		
+[sqlx](https://github.com/jmoiron/sqlx) |sqlx 是一个库，它在 Go 的标准 database/sql 库上提供了一组扩展。	
 	
 </div>
 
