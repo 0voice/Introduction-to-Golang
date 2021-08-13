@@ -226,6 +226,28 @@ Title|Translation（参考）|Company
 [gorilla/rpc](https://github.com/gorilla/rpc)|构建基于 HTTP 的 RPC 服务，比如 JSON-RPC
 [Twirp](https://github.com/twitchtv/twirp)|基于 Protobuf 的 RPC 框架，与 gRPC 类似
 
+#### 铂金段位
+
+项目 | 简介
+-------|-------------------
+[dubbo-go](https://github.com/apache/dubbo-go)|Apache Dubbo Go 语言实现，架起 Java 和 Golang 之间的桥梁，与 gRPC/Spring Cloud 生态互联互通，带领 Java 生态享受云原生时代的技术红利
+[NSQ](https://github.com/nsqio/nsq)|实时分布式消息平台
+[NATS](https://github.com/nats-io/nats-server)|云原生消息中间件
+[sarama](https://github.com/Shopify/sarama)|Kafka 客户端
+[InfluxDB](https://github.com/influxdata/influxdb)|时间序列数据库
+[Thanos](https://github.com/thanos-io/thanos)|支持 Prometheus 简化部署、高可用、分布式存储
+[CockroachDB](https://github.com/cockroachdb/cockroach)|分布式 SQL 数据库
+[RadonDB](https://github.com/radondb/radon)|基于 MySQL 研发的新一代分布式关系型数据库
+[TiDB](https://github.com/pingcap/tidb)|分布式关系型数据库，兼容 MySQL 协议
+[AresDB](https://github.com/uber/aresdb)|Uber 开源的 GPU 驱动的实时分析存储&查询引擎
+[leveldb](https://github.com/syndtr/goleveldb)| LevelDB 的 Go 实现
+[GCache](https://github.com/bluele/gcache)|golang的内存缓存库。支持多种驱逐政策:LRU、LFU、ARC
+[go-cache](https://github.com/patrickmn/go-cache)|Go的内存键:值存储/缓存(类似于Memcached)库，适用于单机应用程序。
+[groupcache](https://github.com/golang/groupcache)|分布式缓存
+[cachego](https://github.com/faabiosr/cachego)|支持 Redis、Bolt 等缓存接口
+[go-tagexpr](https://github.com/bytedance/go-tagexpr)|字节跳动开源的结构体标签表达式解释器
+[goav](https://github.com/giorgisio/goav)|FFmpeg 视频处理
+
 ---
 
 ### 🖼 大厂实战分享ppt
