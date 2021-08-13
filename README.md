@@ -203,6 +203,28 @@ Title|Translation（参考）|Company
 [grab](https://github.com/cavaliercoder/grab)|文件下载
 [go-netty](https://github.com/go-netty/go-netty)|网络框架
 
+#### 钻石段位
+
+项目 | 简介
+-------|-------------------
+[gorilla/websocket](https://github.com/gorilla/websocket)|Go的一个快速、经过良好测试和广泛使用的WebSocket实现。
+[nhooyr/websocket ](https://github.com/nhooyr/websocket)|常用的Go WebSocket库
+[websocketd](https://github.com/joewalnes/websocketd)|Go 开发的一键搭建 WebSocket 服务器命令行工具
+[ws](https://github.com/gobwas/ws)|WebSocket 开发包
+[melody](https://github.com/olahol/melody)|WebSocket 服务框架
+[neffos](https://github.com/kataras/neffos)|一个现代的、快速的、可扩展的websocket框架，带有优雅的Go API
+[fastws](https://github.com/dgrr/fastws)|fastttp和net/http的快速WebSocket实现。默认支持并发读写操作。
+[Centrifugo](https://github.com/centrifugal/centrifugo)|实时消息服务器，可以与任何语言编写的应用程序后端结合使用
+[goim](https://github.com/Terry-Mao/goim)|支持集群的 im 及实时推送服务
+[Tinode](https://github.com/tinode/chat)|即时消息服务器，通过 websocket/JSON 或 gRPC/TCP 等协议传输
+[WebRTC](https://github.com/pion/webrtc)|WebRTC 实现
+[Berty](https://github.com/berty/berty)|安全的点对点通讯软件
+[Keybase](https://github.com/keybase/client)|即时通讯工具 Keybase 全平台客户端
+[golang/protobuf](https://github.com/golang/protobuf)|Go 版本的 Protocol Buffers
+[gogo/protobuf](https://github.com/gogo/protobuf)|golang/protobuf 的扩展替代品
+[Objx](https://github.com/stretchr/objx)|操作 map, slice, JSON 等数据的包
+[gorilla/rpc](https://github.com/gorilla/rpc)|构建基于 HTTP 的 RPC 服务，比如 JSON-RPC
+[Twirp](https://github.com/twitchtv/twirp)|基于 Protobuf 的 RPC 框架，与 gRPC 类似
 
 ---
 
