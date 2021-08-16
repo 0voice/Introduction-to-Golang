@@ -19,6 +19,66 @@
 
 ## 📢【今日推荐阅读：】[Golang 新手可能会踩的 50 个坑](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md)
 
+## Rob Pike谈Google Go
+
+##### [1. Rob，你创建了Google Go这门语言。什么是Google Go？能简明扼要的介绍一下Google Go吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#1-rob%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%BA%86google-go%E8%BF%99%E9%97%A8%E8%AF%AD%E8%A8%80%E4%BB%80%E4%B9%88%E6%98%AFgoogle-go%E8%83%BD%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81%E7%9A%84%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bgoogle-go%E5%90%97)
+
+##### [2. Go的主要特点是什么？有什么重要功能？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#2-go%E7%9A%84%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD)
+
+##### [3. 在我们继续话题之前，能否解释一下为什么Go编译器能达到那么快的编译速度呢？有什么法宝？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#3-%E5%9C%A8%E6%88%91%E4%BB%AC%E7%BB%A7%E7%BB%AD%E8%AF%9D%E9%A2%98%E4%B9%8B%E5%89%8D%E8%83%BD%E5%90%A6%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%E4%B8%BA%E4%BB%80%E4%B9%88go%E7%BC%96%E8%AF%91%E5%99%A8%E8%83%BD%E8%BE%BE%E5%88%B0%E9%82%A3%E4%B9%88%E5%BF%AB%E7%9A%84%E7%BC%96%E8%AF%91%E9%80%9F%E5%BA%A6%E5%91%A2%E6%9C%89%E4%BB%80%E4%B9%88%E6%B3%95%E5%AE%9D)
+
+##### [4. 让我们开始聊聊Go里的类型系统吧。Go里面有结构（struct）、有类型（type）,那么Go里的类型是什么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#4-%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BC%80%E5%A7%8B%E8%81%8A%E8%81%8Ago%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F%E5%90%A7go%E9%87%8C%E9%9D%A2%E6%9C%89%E7%BB%93%E6%9E%84struct%E6%9C%89%E7%B1%BB%E5%9E%8Btype%E9%82%A3%E4%B9%88go%E9%87%8C%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [5. 那么这些方法只是在包内部可见喽？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#5-%E9%82%A3%E4%B9%88%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E5%8F%AA%E6%98%AF%E5%9C%A8%E5%8C%85%E5%86%85%E9%83%A8%E5%8F%AF%E8%A7%81%E5%96%BD)
+
+##### [6. 你的意思是，我可以给int增加方法，但是必须先使用typedef吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#6-%E4%BD%A0%E7%9A%84%E6%84%8F%E6%80%9D%E6%98%AF%E6%88%91%E5%8F%AF%E4%BB%A5%E7%BB%99int%E5%A2%9E%E5%8A%A0%E6%96%B9%E6%B3%95%E4%BD%86%E6%98%AF%E5%BF%85%E9%A1%BB%E5%85%88%E4%BD%BF%E7%94%A8typedef%E5%90%97)
+
+##### [7. 你们借鉴了Ruby里开放类的思想，这很有意思。Ruby的开放类实际上是可以修改类并增加新的方法，这是有破坏性的，但是你们的方法本质上是安全的，因为创建了新的东西。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#7-%E4%BD%A0%E4%BB%AC%E5%80%9F%E9%89%B4%E4%BA%86ruby%E9%87%8C%E5%BC%80%E6%94%BE%E7%B1%BB%E7%9A%84%E6%80%9D%E6%83%B3%E8%BF%99%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9Druby%E7%9A%84%E5%BC%80%E6%94%BE%E7%B1%BB%E5%AE%9E%E9%99%85%E4%B8%8A%E6%98%AF%E5%8F%AF%E4%BB%A5%E4%BF%AE%E6%94%B9%E7%B1%BB%E5%B9%B6%E5%A2%9E%E5%8A%A0%E6%96%B0%E7%9A%84%E6%96%B9%E6%B3%95%E8%BF%99%E6%98%AF%E6%9C%89%E7%A0%B4%E5%9D%8F%E6%80%A7%E7%9A%84%E4%BD%86%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%96%B9%E6%B3%95%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%98%AF%E5%AE%89%E5%85%A8%E7%9A%84%E5%9B%A0%E4%B8%BA%E5%88%9B%E5%BB%BA%E4%BA%86%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF)
+
+##### [8. 你还提到了typedef，是叫typedef吧？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#8-%E4%BD%A0%E8%BF%98%E6%8F%90%E5%88%B0%E4%BA%86typedef%E6%98%AF%E5%8F%ABtypedef%E5%90%A7)
+
+##### [9. Typedef在C里是一种预处理指令吗？【编辑注/免责申明：C语言里的typedef与预处理无关】](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#9-typedef%E5%9C%A8c%E9%87%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E9%A2%84%E5%A4%84%E7%90%86%E6%8C%87%E4%BB%A4%E5%90%97%E7%BC%96%E8%BE%91%E6%B3%A8%E5%85%8D%E8%B4%A3%E7%94%B3%E6%98%8Ec%E8%AF%AD%E8%A8%80%E9%87%8C%E7%9A%84typedef%E4%B8%8E%E9%A2%84%E5%A4%84%E7%90%86%E6%97%A0%E5%85%B3)
+
+##### [10. 我们从底层说起吧，在Go里最小的类型是什么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#10-%E6%88%91%E4%BB%AC%E4%BB%8E%E5%BA%95%E5%B1%82%E8%AF%B4%E8%B5%B7%E5%90%A7%E5%9C%A8go%E9%87%8C%E6%9C%80%E5%B0%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+
+##### [11. 但是，int这样的类型是值类型对吧.](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#11-%E4%BD%86%E6%98%AFint%E8%BF%99%E6%A0%B7%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E5%80%BC%E7%B1%BB%E5%9E%8B%E5%AF%B9%E5%90%A7)
+
+##### [12. 它们类似C++的引用吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#12-%E5%AE%83%E4%BB%AC%E7%B1%BB%E4%BC%BCc%E7%9A%84%E5%BC%95%E7%94%A8%E5%90%97)
+
+##### [13. 它是结构内部一个复合对象。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#13-%E5%AE%83%E6%98%AF%E7%BB%93%E6%9E%84%E5%86%85%E9%83%A8%E4%B8%80%E4%B8%AA%E5%A4%8D%E5%90%88%E5%AF%B9%E8%B1%A1)
+
+##### [14. 你提到过接口比较有趣，那下面咱们就谈谈这一部分。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#14-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E6%8E%A5%E5%8F%A3%E6%AF%94%E8%BE%83%E6%9C%89%E8%B6%A3%E9%82%A3%E4%B8%8B%E9%9D%A2%E5%92%B1%E4%BB%AC%E5%B0%B1%E8%B0%88%E8%B0%88%E8%BF%99%E4%B8%80%E9%83%A8%E5%88%86)
+
+##### [15. 某种程度上有点类似结构化类型系统（structural typing)](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#15-%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%9C%89%E7%82%B9%E7%B1%BB%E4%BC%BC%E7%BB%93%E6%9E%84%E5%8C%96%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9Fstructural-typing)
+
+##### [16. 你提到过类，但Go没有类，对吧。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#16-%E4%BD%A0%E6%8F%90%E5%88%B0%E8%BF%87%E7%B1%BB%E4%BD%86go%E6%B2%A1%E6%9C%89%E7%B1%BB%E5%AF%B9%E5%90%A7)
+
+##### [17. 但是没有类怎么去写代码？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#17-%E4%BD%86%E6%98%AF%E6%B2%A1%E6%9C%89%E7%B1%BB%E6%80%8E%E4%B9%88%E5%8E%BB%E5%86%99%E4%BB%A3%E7%A0%81)
+
+##### [18. 如果我有一些行为要实现，而且想放在多个structs里，怎么去共享这些行为？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#18-%E5%A6%82%E6%9E%9C%E6%88%91%E6%9C%89%E4%B8%80%E4%BA%9B%E8%A1%8C%E4%B8%BA%E8%A6%81%E5%AE%9E%E7%8E%B0%E8%80%8C%E4%B8%94%E6%83%B3%E6%94%BE%E5%9C%A8%E5%A4%9A%E4%B8%AAstructs%E9%87%8C%E6%80%8E%E4%B9%88%E5%8E%BB%E5%85%B1%E4%BA%AB%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA)
+
+##### [19. 如果有多重继承命名冲突的问题该怎么办？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#19-%E5%A6%82%E6%9E%9C%E6%9C%89%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E5%91%BD%E5%90%8D%E5%86%B2%E7%AA%81%E7%9A%84%E9%97%AE%E9%A2%98%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
+
+##### [20. 因为系统中没有根对象或根类，如果我想得到一个拥有不同类型的结构的列表，应该怎么办？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#20-%E5%9B%A0%E4%B8%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E6%B2%A1%E6%9C%89%E6%A0%B9%E5%AF%B9%E8%B1%A1%E6%88%96%E6%A0%B9%E7%B1%BB%E5%A6%82%E6%9E%9C%E6%88%91%E6%83%B3%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA%E6%8B%A5%E6%9C%89%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E7%9A%84%E7%BB%93%E6%9E%84%E7%9A%84%E5%88%97%E8%A1%A8%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
+
+##### [21. Go里有叫做Goroutines的东西，它们和coroutines有什么区别？不一样么？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#21-go%E9%87%8C%E6%9C%89%E5%8F%AB%E5%81%9Agoroutines%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%AE%83%E4%BB%AC%E5%92%8Ccoroutines%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%B9%88)
+
+##### [22. 你提到你们使用了m:n线程模型，即m个coroutines映射到n个线程上？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#22-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E4%BD%BF%E7%94%A8%E4%BA%86mn%E7%BA%BF%E7%A8%8B%E6%A8%A1%E5%9E%8B%E5%8D%B3m%E4%B8%AAcoroutines%E6%98%A0%E5%B0%84%E5%88%B0n%E4%B8%AA%E7%BA%BF%E7%A8%8B%E4%B8%8A)
+
+##### [23. Goroutines有用于通信的通道吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#23-goroutines%E6%9C%89%E7%94%A8%E4%BA%8E%E9%80%9A%E4%BF%A1%E7%9A%84%E9%80%9A%E9%81%93%E5%90%97)
+
+##### [24. 你提到你们有缓存的同步通道和异步通道。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#24-%E4%BD%A0%E6%8F%90%E5%88%B0%E4%BD%A0%E4%BB%AC%E6%9C%89%E7%BC%93%E5%AD%98%E7%9A%84%E5%90%8C%E6%AD%A5%E9%80%9A%E9%81%93%E5%92%8C%E5%BC%82%E6%AD%A5%E9%80%9A%E9%81%93)
+
+##### [25. 每个Goroutine就像是一个小的线程，可以这么给读者解释吧。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#25-%E6%AF%8F%E4%B8%AAgoroutine%E5%B0%B1%E5%83%8F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9A%84%E7%BA%BF%E7%A8%8B%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%BB%99%E8%AF%BB%E8%80%85%E8%A7%A3%E9%87%8A%E5%90%A7)
+
+##### [26. 它们是轻量级的。但是每个线程同样都预分配栈空间，因而它们非常耗费资，Goroutines是怎么处理的呢？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#26-%E5%AE%83%E4%BB%AC%E6%98%AF%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84%E4%BD%86%E6%98%AF%E6%AF%8F%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%90%8C%E6%A0%B7%E9%83%BD%E9%A2%84%E5%88%86%E9%85%8D%E6%A0%88%E7%A9%BA%E9%97%B4%E5%9B%A0%E8%80%8C%E5%AE%83%E4%BB%AC%E9%9D%9E%E5%B8%B8%E8%80%97%E8%B4%B9%E8%B5%84goroutines%E6%98%AF%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E7%9A%84%E5%91%A2)
+
+##### [27. 我们再来谈谈自动化方面的东西，最初你们是将Go语言作为系统级语言来推广的，一个有趣的选择是使用了垃圾回收器，但是它速度并不快或者说有垃圾回收间歇问题，如果用它写一个操作系统的话，这是非常烦人的。你们是怎么看这一问题的？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#27-%E6%88%91%E4%BB%AC%E5%86%8D%E6%9D%A5%E8%B0%88%E8%B0%88%E8%87%AA%E5%8A%A8%E5%8C%96%E6%96%B9%E9%9D%A2%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%9C%80%E5%88%9D%E4%BD%A0%E4%BB%AC%E6%98%AF%E5%B0%86go%E8%AF%AD%E8%A8%80%E4%BD%9C%E4%B8%BA%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E6%9D%A5%E6%8E%A8%E5%B9%BF%E7%9A%84%E4%B8%80%E4%B8%AA%E6%9C%89%E8%B6%A3%E7%9A%84%E9%80%89%E6%8B%A9%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BA%86%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E4%BD%86%E6%98%AF%E5%AE%83%E9%80%9F%E5%BA%A6%E5%B9%B6%E4%B8%8D%E5%BF%AB%E6%88%96%E8%80%85%E8%AF%B4%E6%9C%89%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E9%97%B4%E6%AD%87%E9%97%AE%E9%A2%98%E5%A6%82%E6%9E%9C%E7%94%A8%E5%AE%83%E5%86%99%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AF%9D%E8%BF%99%E6%98%AF%E9%9D%9E%E5%B8%B8%E7%83%A6%E4%BA%BA%E7%9A%84%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E7%9C%8B%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%E7%9A%84)
+
+##### [28. 有没有方法能够避免直面垃圾回收器，比如用一些大容量缓存，我们可以把数据扔进去。](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#28-%E6%9C%89%E6%B2%A1%E6%9C%89%E6%96%B9%E6%B3%95%E8%83%BD%E5%A4%9F%E9%81%BF%E5%85%8D%E7%9B%B4%E9%9D%A2%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%99%A8%E6%AF%94%E5%A6%82%E7%94%A8%E4%B8%80%E4%BA%9B%E5%A4%A7%E5%AE%B9%E9%87%8F%E7%BC%93%E5%AD%98%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E6%8A%8A%E6%95%B0%E6%8D%AE%E6%89%94%E8%BF%9B%E5%8E%BB)
+
+##### [29. 最后一个问题：Go是系统级语言还是应用级语言？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#29-%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98go%E6%98%AF%E7%B3%BB%E7%BB%9F%E7%BA%A7%E8%AF%AD%E8%A8%80%E8%BF%98%E6%98%AF%E5%BA%94%E7%94%A8%E7%BA%A7%E8%AF%AD%E8%A8%80)
+
 ## 📚 资料包
 
 <div  align=center>
