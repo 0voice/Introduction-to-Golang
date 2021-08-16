@@ -153,6 +153,8 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 [codis](https://github.com/CodisLabs/codis) | Codis是一个分布式Redis解决方案,其实就是一个数据库代理，让你在使用Redis集群的时候，就像使用单机版的Redis是一样的，对开发者透明。 
 [delve](https://github.com/derekparker/delve) |这个Go开发者都知道，一款go应用开发的调试工具。 
 [cobra](https://github.com/spf13/cobra) |cobra是一个命令行go库，可以让你创建非常强大的，现代的CLI命令行应用。
+[megaease/easegress](https://github.com/megaease/easegress)|云本地流量编排系统
+
 
 </div>
 
