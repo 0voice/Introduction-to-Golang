@@ -21,6 +21,13 @@
 
 ## 📢 Rob Pike谈Google Go
 
+<div  align=center>
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/129528229-cb400b53-90a4-440b-982b-1af4b20fe7e4.png"/>
+  
+## Google · Go语言之父
+
+</div>
+
 ##### [1. Rob，你创建了Google Go这门语言。什么是Google Go？能简明扼要的介绍一下Google Go吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#1-rob%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%BA%86google-go%E8%BF%99%E9%97%A8%E8%AF%AD%E8%A8%80%E4%BB%80%E4%B9%88%E6%98%AFgoogle-go%E8%83%BD%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81%E7%9A%84%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bgoogle-go%E5%90%97)
 
 ##### [2. Go的主要特点是什么？有什么重要功能？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#2-go%E7%9A%84%E4%B8%BB%E8%A6%81%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E9%87%8D%E8%A6%81%E5%8A%9F%E8%83%BD)
