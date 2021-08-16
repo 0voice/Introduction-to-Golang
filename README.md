@@ -17,8 +17,8 @@
 
 <br>
 
-## 📣【今日推荐阅读：】[Golang 新手可能会踩的 50 个坑](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md)
-## 🔠【测测你会做多少：】[Golang精编100题（选择题、填空题、判断题）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md)
+## 📣【今日推荐阅读】[Golang 新手可能会踩的 50 个坑](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md)
+## 🔠【测测你会做多少】[Golang精编100题（选择题、填空题、判断题）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md)
 
 ## 🧑‍🤝‍🧑 Rob Pike谈Google Go
 
