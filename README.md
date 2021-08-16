@@ -19,7 +19,7 @@
 
 ## 📢【今日推荐阅读：】[Golang 新手可能会踩的 50 个坑](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E6%96%B0%E6%89%8B%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B8%A9%E7%9A%84%2050%20%E4%B8%AA%E5%9D%91.md)
 
-## Rob Pike谈Google Go
+## 📢 Rob Pike谈Google Go
 
 ##### [1. Rob，你创建了Google Go这门语言。什么是Google Go？能简明扼要的介绍一下Google Go吗？](https://github.com/0voice/Introduction-to-Golang/blob/main/Rob%20Pike%E8%B0%88Google%20Go.md#1-rob%E4%BD%A0%E5%88%9B%E5%BB%BA%E4%BA%86google-go%E8%BF%99%E9%97%A8%E8%AF%AD%E8%A8%80%E4%BB%80%E4%B9%88%E6%98%AFgoogle-go%E8%83%BD%E7%AE%80%E6%98%8E%E6%89%BC%E8%A6%81%E7%9A%84%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8Bgoogle-go%E5%90%97)
 
