@@ -216,7 +216,7 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 	
 项目 | 简介
 -------|-------------------
-[docker](https://github.com/docker/docker) | 无人不知的虚拟华平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。
+[docker](https://github.com/docker/docker) | 无人不知的虚拟化平台，开源的应用容器引擎,借助该引擎，开发者可以打包他们的应用，移植到任何平台上。
 [golang](https://github.com/golang/go) | go本身，也是用go语言实现的，包括他的编译器，要研究go源代码的可以看此项目录 
 [kubernetes](https://github.com/kubernetes/kubernetes) | Google出品，用于调度和管理docker的开源容器管理系统，利用他，可以方便的管理你的docker实例，哪怕非常多，也是目前最流行的docker管理系统。 
 [gogs](https://github.com/gogits/gogs) |一款基于git的代码托管系统，类似于github和gitlab，不过其小巧易用，功能强大，部署方便，也有不少用户在使用。 
