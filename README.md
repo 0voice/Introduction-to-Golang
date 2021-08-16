@@ -22,7 +22,7 @@
 ## 📢 Rob Pike谈Google Go
 
 <div  align=center>
-<img width="70%" height="70%" src="https://user-images.githubusercontent.com/87457873/129528229-cb400b53-90a4-440b-982b-1af4b20fe7e4.png"/>
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/87457873/129528229-cb400b53-90a4-440b-982b-1af4b20fe7e4.png"/>
   
 ## Google · Go语言之父
 
