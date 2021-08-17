@@ -803,9 +803,9 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
   * CVM云服务器
   * TKE容器服务
 
-## 鸣谢
+## 🤝 鸣谢
 
-##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。
+##### 本repo励志作为全网golang资料最全的repo，因此非常感谢各位贡献patch的朋友， 还有很多在issue里面出谋划策的朋友，为此衷心感谢。
 
 <a href="https://github.com/wangbojing">
     <img src="https://avatars.githubusercontent.com/u/18027560?v=4" width="40px">
