@@ -807,6 +807,14 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 ##### 感谢各位贡献patch的朋友， 还很多在issue里面出谋划策的朋友，为此衷心感谢。
 
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars.githubusercontent.com/u/18027560?v=4" width="40px">
+</a> 
+
+<a href="https://github.com/wenchao1024">
+    <img src="https://avatars.githubusercontent.com/u/87457873?v=4" width="40px">
+</a> 
+
 <a href="https://github.com/aiyijing">
     <img src="https://avatars.githubusercontent.com/u/11643145?v=4" width="40px">
 </a> 
