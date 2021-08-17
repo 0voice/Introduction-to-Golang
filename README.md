@@ -18,7 +18,7 @@
 <br>
 
 ## 📣【今日推荐阅读】[Golang基础框架图](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%9B%BE.png)
-## 🔠【测测你会做多少】[Golang精编100题（选择题、填空题、判断题）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%E7%B2%BE%E7%BC%96100%E9%A2%98.md)
+## 🔠【还不会入门，找我】[Go语言基础语法宝典](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md)
 ## 🗡【一册在手，天下我有】[Go 语言参考手册](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md)
 
 ## 🧑‍🤝‍🧑 Rob Pike谈Google Go
