@@ -17,7 +17,7 @@
 
 <br>
 
-## 📣【今日推荐阅读】[Uber Go 语言编码规范中文版](https://github.com/0voice/Introduction-to-Golang/blob/main/Uber%20Go%20%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83%E4%B8%AD%E6%96%87%E7%89%88.md)
+## 📣【今日推荐阅读】[Go自带库的使用说明](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E8%87%AA%E5%B8%A6%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 ## 🔠【还不会入门，找我】[Go语言基础语法宝典](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E5%AE%9D%E5%85%B8.md)
 ## 🗡【一册在手，天下我有】[Go 语言参考手册](https://github.com/0voice/Introduction-to-Golang/blob/main/Go%20%E8%AF%AD%E8%A8%80%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.md)
 ## 🤔【导图辅助，有如神助】[Golang 入门笔记](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md)[（pdf版下载）](https://github.com/0voice/Introduction-to-Golang/blob/main/Golang%20%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.pdf)
