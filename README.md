@@ -179,6 +179,7 @@
 
 [图解Go内存分配器](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/%E5%9B%BE%E8%A7%A3Go%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E5%99%A8.md)
 
+[Go常用命令](https://github.com/0voice/Introduction-to-Golang/blob/main/%E6%96%87%E7%AB%A0/Go%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 
 ---
 
