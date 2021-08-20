@@ -308,7 +308,7 @@ dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https:
 [cachego](https://github.com/faabiosr/cachego)|支持 Redis、Bolt 等缓存接口
 [go-tagexpr](https://github.com/bytedance/go-tagexpr)|字节跳动开源的结构体标签表达式解释器
 [goav](https://github.com/giorgisio/goav)|FFmpeg 视频处理
-[rosedb](https://github.com/roseduan/rosedb)|FFmpeg 基于 bitcask 的 k-v 存储模型，高效、快速、简洁
+[rosedb](https://github.com/roseduan/rosedb)|基于 bitcask 的 k-v 存储模型，高效、快速、简洁
 
 ---
 
