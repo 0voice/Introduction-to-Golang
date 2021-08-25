@@ -849,6 +849,6 @@ DevOps是一种重视“软件开发人员”和“IT运维技术人员”之间
 
 #### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-![扫码_搜索联合传播样式-标准色版](https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png)
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 
