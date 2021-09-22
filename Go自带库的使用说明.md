@@ -73,9 +73,9 @@ Go 语言提供了时间类型格式化函数 `Format()`，需要注意的是 Go
 
 ```go
 now := time.Now()
-fmt.Println(now.Format("2006-01-02 15:03:04"))
+fmt.Println(now.Format("2006-01-02 15:04:05"))
 fmt.Println(now.Format("2006-01-02"))
-fmt.Println(now.Format("15:03:04"))
+fmt.Println(now.Format("15:04:05"))
 fmt.Println(now.Format("2006/01/02 15:04"))
 fmt.Println(now.Format("15:04 2006/01/02"))
 ```
