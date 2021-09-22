@@ -205,7 +205,7 @@ Golang REST API With Mux | [百度网盘：el4d](https://pan.baidu.com/s/1TrsNS6
 Golang Crash Course | [百度网盘：v4jw](https://pan.baidu.com/s/1QXJW21hm-hOJ1hxMzkQoog)
 Brad Fitzpatrick Go 1 11 and beyond | [百度网盘：yg9r](https://pan.baidu.com/s/1RsZHVCH3xI6hLfyCxCPS2g)
 dotGo 2015 - Rob Pike - Simplicity is Complicated | [百度网盘：594c](https://pan.baidu.com/s/1RcfgpuCzYToBnaHMwfhjIw)
-  
+golang快速入门【奇淼】 | [bilibili持续更新](https://space.bilibili.com/322210472/channel/seriesdetail?sid=238027)
 </div>
 
 ---
