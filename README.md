@@ -191,7 +191,7 @@
   
 title | Link
 :------ | :------:
-Go (Golang) Tutorial - Go语言入门教程 #1 ~ #22 | [百度网盘：btjy](https://pan.baidu.com/s/1gOHgMWDkJnDkMYtsg7fwGg)
+【golang云原生】 golang实现行程码、健康码识别 | [点击观看](https://www.bilibili.com/video/BV1V24y1R7DU/?spm_id_from=333.999.0.0&vd_source=608f212d9feca2c973f34c2fb5ed5906)
 GopherCon 2017- Russ Cox - The Future of Go | [百度网盘：zx1w](https://pan.baidu.com/s/1pFP8QbNxV6sBYZAPNelnRw)
 GopherCon 2018- George Tankersley - Micro optimizing Go Code | [百度网盘：tzau](https://pan.baidu.com/s/1r7C6wsmQVnQkiWpWnDnLxA)
 GopherCon 2018- Kat Zien - How Do You Structure Your Go Apps | [百度网盘：qmrq](https://pan.baidu.com/s/1BuM-Fd1_3NOawMpleB_cSA)
